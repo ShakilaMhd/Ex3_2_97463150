@@ -42,21 +42,6 @@ public class Ex3 {
         
         
         User dd = (User) users.get(0);
-        
-//        for (int i = 0; i < users.size(); i++) {
-//            User u1 = (User) users.get(i);
-//            
-//            
-//            if (uname.equals(u1.getUsername())) {
-//                if (pass.equals(u1.password)) {
-//                    System.out.println("Success!!");
-//                    u1.addToEnterTime();
-//                }else {
-//                    System.out.println("username or password is incorect");
-//                }
-//            }
-//        }
-        
      
        
 
